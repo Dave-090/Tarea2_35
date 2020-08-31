@@ -1,0 +1,41 @@
+
+body{
+    background-image: url(imgindex/forma.jpg);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: rgba(1, 0, 73, 0.932);
+    font-size: 4.3em;
+    text-align: center;
+    transform: translateY(50px);
+    
+}
+
+#container{
+    width: 50%;
+    margin: 0px auto;
+    border: 1px solid rgb(36, 36, 36);
+}
+
+nav{
+    background: rgb(255, 255, 255);
+    height: 50px;
+    
+}
+
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    transform: translateX(400px)
+    
+       
+}
+.clearfix{
+    clear: both;
+}
+
+
+
+
